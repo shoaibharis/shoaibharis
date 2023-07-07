@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shoaibharis5" target="blank"><img src="https://img.shields.io/twitter/follow/shoaibharis5?logo=twitter&style=for-the-badge" alt="shoaibharis5" /></a> </p>
 
-- 🔭 I’m currently working on **Blog Development with NodeJS.**
+- 🔭 I’m currently working on **Deep Learning Powered Social Media Platform**
 
-- 🌱 I’m currently learning **JavaFX and Dynamic Web development with NodeJs.**
+- 🌱 I’m currently learning **Deep Learning Algorithms and Python Libraries**
 
-- 💬 Ask me about **MERN Stack Development.**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **numl-f20-13983@numls.edu.pk**
 
